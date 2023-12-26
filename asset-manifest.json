@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/GreekPhysiqueClient/static/css/main.3a0e5993.css",
+    "main.js": "/GreekPhysiqueClient/static/js/main.5cf56ff9.js",
+    "static/media/Sun.svg": "/GreekPhysiqueClient/static/media/Sun.681607dcda2a01539a9a8a157ae74e6e.svg",
+    "static/media/Moon.svg": "/GreekPhysiqueClient/static/media/Moon.0a6a2b75ac51157455302ddcfca385c0.svg",
+    "index.html": "/GreekPhysiqueClient/index.html",
+    "main.3a0e5993.css.map": "/GreekPhysiqueClient/static/css/main.3a0e5993.css.map",
+    "main.5cf56ff9.js.map": "/GreekPhysiqueClient/static/js/main.5cf56ff9.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.3a0e5993.css",
+    "static/js/main.5cf56ff9.js"
+  ]
+}
