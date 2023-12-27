@@ -191,3 +191,29 @@ form.signup, form.login {
   background: var(--form-bg);
   border-radius: 8px;
 }
+
+@media screen and (max-width: 768px) {
+  .subtitle {
+    display: none;
+  }
+  h1 {
+    font-size: 1.5em;
+  }
+  nav button {
+    white-space: nowrap;
+  }
+  .rightitems {
+    display: flex;
+    align-items: center;
+    justify-content: flex-end;
+  }
+  .rightitems > *:not(:last-child) {
+    margin-right: 10px;
+  }
+  nav {
+    flex: 1;
+  }
+  nav button {
+    margin-left: 10px;
+  }
+}
